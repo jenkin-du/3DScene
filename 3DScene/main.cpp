@@ -15,7 +15,6 @@ void onMotionNotified(int x, int y);
 void idle();
 
 static float c = 3.1415926 / 180.0f;
-static float r = 300.0f;
 static int degree = 60;
 static int Y = -1;
 static int X = -1;
